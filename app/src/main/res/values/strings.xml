@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Black Clover</string>
+
+    <string name="karakter_name">Nama Karakter</string>
+    <string name="description">Deskripsi</string>
+    <string name="judul">Nama-Nama Karakter</string>
+    <string name="nama_about">Muhammad Kholik S.</string>
+    <string name="email_about">mkholik5385@gmail.com</string>
+    <string name="judul_menu">BLACK CLOVER</string>
+
+    <string-array name="data_name">
+        <item>Asta</item>
+        <item>Yuno</item>
+        <item>Yami</item>
+        <item>Mereoleona Vermillion</item>
+        <item>Noelle Silva</item>
+        <item>Lemiel Silvamillion</item>
+        <item>Nacht Faust</item>
+        <item>Fuegoleon Vermillion</item>
+        <item>William Vangeance</item>
+        <item>Nozel Silva</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Asta adalah tokoh utama dalam serial Anime Black Clover. Asta juga memiliki sifat yang sangat khas dan patut di contoh atas kerja keras dan pantang menyerahnya.</item>
+        <item>Yuno ditemukan dan dibesarkan di panti asuhan yang sama dengan Asta. Tapi, keduanya sangat berseberangan. Yuno lebih serius dan punya rasa persepsi. Dia juga sangat berbakat dan bisa menggunakan sihir dengan lebih mahir.</item>
+        <item>Yami Sukehiro merupakan ksatria sihir yang berasal dari negara asing. Yami adalah Komandan dari pasukan sihir bernama Black Bull yang mana ada Asta di dalamnya</item>
+        <item>Mereoleona adalah putri bangsawan sekaligus kapten sementara pasukan Singa Merah, Ksatria Sihir ini terkenal sangat barbar. Mereoleona juga terkenal sebagai petarung tangan kosong yang andal. Bahkan, Mereoleona lebih terlihat seperti petarung dibanding penyihir.</item>
+        <item>Noelle Silva merupakan keturunan bangsawan,dan adik bungsu dari Nozel Silva. Karena keturunan bangsawan, membuat Noelle memiliki mana sihir yang cukup besar, tapi dia tidak bisa mengontrolnya.</item>
+        <item>Lemiel merupakan Kaisar Sihir Kerajaan Clover pertama yang sangat terkenal dengan kebijaksanaanya dan dengan penelitiannya yang sangat unik</item>
+        <item>Nacht merupakan wakil komandan di squad Black Bull. Nacht memiliki misi untuk menyusup dan menyelediki iblis di kerajaan Spade.Dia rela meninggalkan squad lamanya untuk bergabung dengan squad Black Bull, walaupun dia tidak pernah terlihat dimarkas karena sebuah misi rahasia.</item>
+        <item>Fuegoleon adalah bangsawan dari Wangsa Vermilion,salah satu dari keluarga Kerajaan Semanggi dan adik dari Mereoleona. Dia sementara digantikan oleh Mereoleona Vermillion sebagai komandan dari pasukan Singa Merah ketika ia koma.[</item>
+        <item>William adalah kapten Ksatria Sihir pertama dari pasukan Fajar Emas. Dia berambisi akan menjadi Kaisar Sihir selanjutnya. Dia berbagi tubuh dengan elf Patolli, pemimpin Mata Matahari Tengah Malam.</item>
+        <item>Nozel adalah seorang bangsawan dan putra tertua dari Wangsa Silva Kerajaan Semanggi, salah satu keluarga kerajaan Clover. Dia juga kapten dari pasukan Rajawali Perak Ksatria Sihir dan anggota dari Ksatria Kerajaan</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://i.pinimg.com/originals/15/37/a7/1537a76c07952bbe69da01b8086a5f00.png</item>
+        <item>https://i.pinimg.com/originals/83/23/77/8323772f68b71675a9a7d01848655e77.jpg</item>
+        <item>https://wallpapers.com/images/featured/black-clover-yami-uggkrj4san36girp.jpg</item>
+        <item>https://e0.pxfuel.com/wallpapers/690/60/desktop-wallpaper-artstation-mereoleona-vermillion-hallibell-yin-black-clover-anime-black-bull-favorite-cartoon-character.jpg</item>
+        <item>https://i.pinimg.com/originals/a0/a6/f3/a0a6f32b3d812be4e7e7b3b9c0317596.jpg</item>
+        <item>https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/581f3610-f2ae-4145-a04e-8165eb2fe4a0/width=450/92c0601fee9d2b2e110500cb943adcd8e75526ef10c5d8ee0d5d0e5926976d35.jpeg</item>
+        <item>https://i.pinimg.com/1200x/f4/b8/78/f4b8784e0ef2352f6e897fa08baeafbe.jpg</item>
+        <item>https://static.zerochan.net/Fuegoleon.Vermilion.full.2713017.jpg</item>
+        <item>https://i.pinimg.com/736x/8c/5b/14/8c5b14c6027539fd6017fee612091956.jpg</item>
+        <item>https://pm1.aminoapps.com/6655/244bcfebcab26bcc1c579c8cc92ffc012cb8b152_00.jpg</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Anggota Banteng Hitam</item>
+        <item>Anggota Fajar Keemasan</item>
+        <item>Ketua Banteng Hitam</item>
+        <item>Anggota Singa Merah Tua</item>
+        <item>Anggota Banteng Hitam</item>
+        <item>Kaisar Sihir Pertama</item>
+        <item>Wakil Komandan Banteng Hitam</item>
+        <item>Ketua Singa Merah Tua</item>
+        <item>Ketua Fajar Keemasan</item>
+        <item>Kapten Elang Perak</item>
+    </string-array>
+
+
+</resources>
